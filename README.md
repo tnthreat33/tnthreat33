@@ -1,6 +1,10 @@
 ### Hi I'm Rachel 👋
 
-Full Stack Software Engineer graduate from Flatiron School. Experience in Javascript, React, Ruby and Ruby on Rails with my current progress focused on Python. My background is in sports business and client relationships. My passion is using technology to help inprove fan experiences through partner sports organization relationships. 
+I'm a Full Stack Software Engineer who graduated from Flatiron School. I have experience in JavaScript, React, Ruby, and Ruby on Rails, with my current focus on Python. 
+
+My professional background is in sports business and client relationships, and I currently work with Indy Eleven Sports and Entertainment. My passion lies in leveraging technology to enhance fan experiences through partnerships with sports organizations. 
+
+When I'm not coding, you'll often hear me talking about University of Tennessee athletics, sharing travel stories, and advocating for women's sports.
 
 ## Projects 🔧
 **Stat Tracker** [Demo](https://youtu.be/740gQc5dzzo) | [Repo](https://github.com/tnthreat33/stat-tracker)
@@ -17,26 +21,15 @@ Full Stack Software Engineer graduate from Flatiron School. Experience in Javasc
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhamby95@gmail.com)
 
 ## Skills 
-[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-[![RubyRails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-[![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-[![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![RubyRails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Currently Learning
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
-
-<!--
-**tnthreat33/tnthreat33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
