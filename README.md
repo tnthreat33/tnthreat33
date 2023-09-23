@@ -3,11 +3,11 @@
 Full Stack Software Engineer graduate from Flatiron School. Experience in Javascript, React, Ruby and Ruby on Rails with my current progress focused on Python. My background is in sports business and client relationships. My passion is using technology to help inprove fan experiences through partner sports organization relationships. 
 
 ## Projects 🔧
-Stat Tracker [Demo]() | [Repo] ()
+Stat Tracker [Demo](https://youtu.be/740gQc5dzzo) | [Repo](https://github.com/tnthreat33/stat-tracker)
 
 ⚾ Easy to use stat and game tracker for baseball and softball coaches. 
 
-Pickle Ball Court Find Demo | Repo 
+Pickle Ball Court Find [Demo](https://youtu.be/5eWtgUiP_Cw) | [Repo](https://github.com/tnthreat33/project-4-pickleball)
 
 🏃 Finding courts to play the fast growing sport Pickle Ball is tough. This app allows users to find courts, reserve courts and add their own courts to be used. 
 <!--
