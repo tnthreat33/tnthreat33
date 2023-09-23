@@ -12,7 +12,8 @@ Full Stack Software Engineer graduate from Flatiron School. Experience in Javasc
 🏃 Finding courts to play the fast growing sport Pickle Ball is tough. This app allows users to find courts, reserve courts and add their own courts to be used. 
 
 ## Find Me 🔍
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachelhamby/)
+
 <!--
 **tnthreat33/tnthreat33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
