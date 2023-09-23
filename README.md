@@ -10,6 +10,10 @@ Full Stack Software Engineer graduate from Flatiron School. Experience in Javasc
 **Pickle Ball Court Finder** [Demo](https://youtu.be/5eWtgUiP_Cw) | [Repo](https://github.com/tnthreat33/project-4-pickleball)
 
 🏃 Finding courts to play the fast growing sport Pickle Ball is tough. This app allows users to find courts, reserve courts and add their own courts to be used. 
+
+## Find Me 🔍
+
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 <!--
 **tnthreat33/tnthreat33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
