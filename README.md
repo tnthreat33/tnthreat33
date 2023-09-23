@@ -1,4 +1,4 @@
-### Hi I'm Rachel 👋
+### 👋 Hey I'm Rachel 🏀✈️
 
 I'm a Full Stack Software Engineer who graduated from Flatiron School. I have experience in JavaScript, React, Ruby, and Ruby on Rails, with my current focus on Python. 
 
